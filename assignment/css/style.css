@@ -68,3 +68,10 @@ body {
     font-size: 14px;
     font-weight: bold;
 }
+
+.dropDown{
+  font-size: 18px;
+  overflow:hidden;
+  width:150px;
+  height:30px;
+}
